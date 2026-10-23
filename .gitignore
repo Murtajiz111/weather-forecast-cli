@@ -1,0 +1,16 @@
+# Maven target build directory
+target/
+dependency-reduced-pom.xml
+
+# IntelliJ IDEA workspace files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.log
